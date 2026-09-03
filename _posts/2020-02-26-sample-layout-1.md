@@ -12,7 +12,7 @@ author: John Doe
 I'm a paragraph.
 
 I'm another, *separate* paragraph!
-I'm a separate line in the same paragraph
+I'm supposed to be a separate line in the same paragraph.
 
 ### I'm a header - Blah blah blah
 
