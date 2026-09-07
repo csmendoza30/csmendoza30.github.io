@@ -2,9 +2,9 @@
 layout: post
 title: Sample Layout 1 - text (styles)
 subtitle: "that's my Choco!"
-cover-img: /assets/img/ChocoBench/jpeg
+cover-img: /assets/img/ChocoBench/jpg
 thumbnail-img: /assets/img/happy-snek.jpg
-share-img: /assets/img/ChocoBench.jpeg
+share-img: /assets/img/ChocoBench.jpg
 tags: [messing around, template]
 author: Ur Father
 ---
