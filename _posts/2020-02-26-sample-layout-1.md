@@ -17,6 +17,6 @@ I took pictures of him everywhere
 
 And I mean *everywhere*
 
-### Including on this random bench
+### *Including on this random bench*
 
 Hi, Choco
