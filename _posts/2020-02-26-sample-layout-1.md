@@ -3,7 +3,7 @@ layout: post
 title: Sample Layout 1 - text (styles)
 subtitle: "wow, pretty pathway!"
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/happy-snek.png
+thumbnail-img: /assets/img/happy-snek.jpg
 share-img: /assets/img/path.jpg
 tags: [messing around, template]
 author: Ur Father
