@@ -4,10 +4,7 @@ title: About Me
 subtitle: Who is that Snek?
 ---
 
-I don't particularly like snakes, but I thought that a snake in a top hat would make for a nice avatar, so when I found a good image I was like YOINK! ha ha
-Anyway, here's the origin of the snek: <https://www.reddit.com/r/aww/comments/9nnsfa/snakes_with_hats_always_make_my_day/>. 
+I like to make things. I like to sculpt figures with clay, 3d print mini characters, and draw with traditional and digital mediums. I have tried my hand with coding in the past, taking brief courses on python, unity and lua script at an ID Tech summer camp, but nothing ever stuck. I think the issue is that coding for a digital project feels less rewarding than walking away with a tangible product. This is why I'm excited to be taking Electronic Textiles this semester. I like the idea of having something I can hold or wear because that kind of project just feels more real to me. And I'm sure that utilizing lights and sensory inputs can really enhance my creations. I really hope that by the end of this course, I'll walk away with new coding skills and cool projects that I can show off to my friends.
 
-I'm currently surviving as a college student where I ended up taking a full course load of STEM classes when I could've sworn I planned to try some studio art. huh
-When I'm not drowning in chemistry and biology, I like to write dumb stories and draw dumber characters. You know, if my whole pre-med idea doesn't work out, I think I could make for a killer SciFi author.
-
-My current hyper-fixation is [Aurora](https://comicaurora.com/about/), a web comic by Red from Overly Sarcastic Productions. I *highly* recommend it to high-magic fantasy lovers like myself. I envy her level of sarcastic humor.
+Also, I don't particularly like snakes, but I thought that a snake in a top hat would make for a nice avatar, so when I found a good image I was like YOINK! ha ha
+  Anyway, here's the origin of the snek: <https://www.reddit.com/r/aww/comments/9nnsfa/snakes_with_hats_always_make_my_day/>. 
