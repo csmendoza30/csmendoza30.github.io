@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post example with cool boxes and images
+title: Sample Layout 2 - (cool boxes and images)
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
