@@ -1,24 +1,22 @@
 ---
 layout: post
 title: Sample Layout 1 - text (styles)
-subtitle: "wow, pretty pathway!"
-cover-img: /assets/img/path.jpg
+subtitle: "that's my Choco!"
+cover-img: /assets/img/ChocoBench/jpeg
 thumbnail-img: /assets/img/happy-snek.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/ChocoBench.jpeg
 tags: [messing around, template]
 author: Ur Father
 ---
 
-# I'm a big header
+# The image above is Choco
 
-## How do you do, fellow header?
+## It's a little stuffed bunny I got in DC
 
-I'm a paragraph.
+I took pictures of him everywhere
 
-I'm another, *separate* paragraph!
+And I mean *everywhere*
 
-I'm supposed to be a separate line in the same paragraph, but that didn't quite work
+### Including on this random bench
 
-### I'm a header - Blah blah blah
-
-I'm text under the header.
+Hi, Choco
