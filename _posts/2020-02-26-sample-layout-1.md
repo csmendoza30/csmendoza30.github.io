@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [messing around, template]
-author: John Doe
+author: Ur Father
 ---
 
 # I'm a big header
