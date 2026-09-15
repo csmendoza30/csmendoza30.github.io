@@ -10,13 +10,15 @@ Why hello there. Welcome to my sampler showcase! Please note that snakes lack op
 
 ## Behold: The right side of my sampler.
 
-![Sampler](https://beautifuljekyll.com/assets/img/SamplerFront.jpeg)
+![sampler](https://beautifuljekyll.com/assets/img/sampler-front.jpeg)
 
 Yes, beautiful.
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+## Now Behold: The wrong side.
 
-Here's a code chunk:
+![Crepe](https://beautifuljekyll.com/assets/img/sampler-back.jpeg)
+
+Less beautiful.
 
 ~~~
 var foo = function(x) {
