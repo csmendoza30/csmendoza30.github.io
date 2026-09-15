@@ -10,7 +10,7 @@ Why hello there. Welcome to my sampler showcase! Please note that snakes lack op
 
 ## Behold: The right side of my sampler.
 
-![samplerfront](https://beautifuljekyll.com/assets/img/sampler-front.jpg)
+![samplerfront](https://beautifuljekyll.com/assets/img/snek.jpg)
 
 Yes, beautiful.
 
