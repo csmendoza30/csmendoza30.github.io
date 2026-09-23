@@ -7,4 +7,4 @@ comments: true
 author: Cici
 ---
 
-Hi!
+For this assignment, we used code to mimic circuits. We used two boolean variables: "btn" and "swt," to mimic a button and switch, respectively. And for all four combinations of the variables' enabled/disabled status, a different light turns on.
