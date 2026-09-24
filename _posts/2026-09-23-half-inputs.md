@@ -3,6 +3,7 @@ layout: post
 title: Half Inputs
 subtitle: Circuits! Well, not quite.
 tags: [coding]
+mathjax: true
 comments: true
 author: Cici
 ---
