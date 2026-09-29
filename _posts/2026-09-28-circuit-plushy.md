@@ -16,3 +16,7 @@ Minor was originally supposed to be a bear, but they ended up being more of a be
 When the button and switch are activated simultaneously, the back of the plushy lights up in a *particular* constellation pattern.
 ![plushy back](../assets/img/plush-lights.jpeg)
 
+One of the most difficult parts of this project was making sure the circuit was connected correctly. The positive and negative ends of the lights needed to be connected to the right ends of the battery, and I had to work carefully to make sure that the conductive thread never crossed and caused a short circuit. Since I was using seven lights so close together, I purposefully gave the wiring plenty of space with the hidden stitch and kept the ends of the thread very short. The paper prototype helped me plan out where to place everything.
+![plushy back](../assets/img/plush-paper.jpeg)
+
+As for the other details: the edges of the plush is sealed with a whip stitch, the eyes and inside of the bowtie were made using a satin stitch, the shape of the mouth was formed with a back stitch, and the other components like the snout fabric and ears pieces were connected with running stitches. And the button is made of good ol' cardboard and black duct tape that I stabbed holes in.
