@@ -5,20 +5,17 @@ subtitle: how mysterious
 tags: [sewing]
 author: Cici
 ---
-About the right size to wrap around my tail.
-
-to be continued
+It's about the right size to wrap around my tail. (who's hand is that?)
 ## Introducing... the wrist watch!
-![plushy front](../assets/img/)
-![plushy back](../assets/img/plush-back.jpeg)
-Minor is inspired by my very own unpaid worker, Ursa. With this new plush, I now have two minions to aid me in my evilness.
+![wrist watch with light on](../assets/img/watch-on.jpeg)
+The wrist watch is composed of a brown band of fabric (mimicking leather) with a watch face in the middle that turns on a light when the snaps are connected and the hands are moved to the right position (5:05).
 
-Minor was originally supposed to be a bear, but they ended up being more of a bear/mouse hybrid. They have a button on their right hand and switch on their left leg that connect to seven lights along their back. And the battery holder is hidden under the white fabric representing their snout, held in place by a home-made black button nose! The conductive thread connecting each electrical component is woven into the fabric as a hidden stitch, a running stitch with small spaces on top so that it's nearly invisible. 
-When the button and switch are activated simultaneously, the back of the plushy lights up in a *particular* constellation pattern.
-![plushy back lights on](../assets/img/plush-lights.jpeg)
+This project began by prototyping homemade switches on paper.
+![wrist watch paper prototype](../assets/img/watch-paper.jpeg)
+I spent a lot of time looking at old-school leather watches, and my initial design was a little ambitious, but I'm happy with how it ultimately turned out. I knew from the prototyping phase that I wanted to make a break in the circuit between one of the numbers and a space before another number. This way, the short hand can't activate the patch intended for the long hand. The hands themselves would be conductive and serve to bridge the gap. 
 
-One of the most difficult parts of this project was making sure the circuit was connected correctly. The positive and negative ends of the lights needed to be connected to the right ends of the battery, and I had to work carefully to make sure that the conductive thread never crossed and caused a short circuit. Since I was using seven lights so close together, I purposefully gave the wiring plenty of space with the hidden stitch and kept the ends of the thread very short. The paper prototype helped me plan out where to place everything.
-![plushy paper prototype](../assets/img/plush-paper.jpeg)
+Onto the alligator-ing phase, which Ursa forgot about last time. Her pay has been adequately docked.
+![wrist watch alligator prototype](../assets/img/watch-aligator.jpeg)
 
 As for the other details: the edges of the plush are sealed with a whip stitch, the eyes and inside of the bowtie were made using a satin stitch, the shape of the mouth was formed with a back stitch, and the other components like the snout fabric and ears pieces were connected with running stitches. And the button is made of good ol' cardboard and black duct tape that I stabbed holes into. Also, the whole thing is stuffed with crumpled paper towels, courtesy of the local bathroom.
 
