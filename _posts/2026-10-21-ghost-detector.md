@@ -13,4 +13,4 @@ This handy dandy piece-of-candy is meant to detect when its surroundings have be
 
 My A9 pin outputs really low, often negative numbers without the temperature sensor. And since my light sensor still works, the red lights consistently turn on and off when I turn my lamp on and off.
 
-Today's tip: Don't mess with the power pins. Incorrectly using them can damage batteries and equipment, so pay close attention to where the positive and negative ends connect.
+Today's tip: Don't mess with the power pins. Incorrectly using them can damage batteries and equipment, so pay close attention to where the positive and negative ends are supposed to connect.
